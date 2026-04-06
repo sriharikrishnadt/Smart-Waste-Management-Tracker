@@ -136,6 +136,8 @@ Priya          DBMS           4
 python study_planner.py
 ```
 ## Output:
+<img width="444" height="424" alt="image" src="https://github.com/user-attachments/assets/c8095565-3c0f-4705-b65e-c74a0a345519" />
+
 <img width="1261" height="588" alt="image" src="https://github.com/user-attachments/assets/252b6599-6d12-4afb-ba76-9f9a0f208e0c" />
 
 ##  Result:
